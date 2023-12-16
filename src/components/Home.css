@@ -1,0 +1,26 @@
+.tit {
+  font-size: 20px;
+  text-align: center;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin: 33px -113px 6px 584px;
+  align-items: center;
+  justify-content: center;
+  color: rgb(0, 0, 0);
+}
+.Home1 {
+  background-image: url(post.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: contain;
+  justify-content: center;
+  margin: 24px 292px 89px 64px;
+}
+body {
+  background-color: rgb(252, 252, 252);
+}
+.subtit {
+  font-size: 15px;
+  font-family: "Times New Roman", Times, serif;
+  color: black;
+}
